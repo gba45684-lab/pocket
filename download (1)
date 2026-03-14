@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Secrets — NEVER commit this
+.env
+
+# Large data files (auto-rebuild on server start)
+data/historicalData.json
+data/model.json
+data/cache/
+
+# OS files
+.DS_Store
+*.log
+Thumbs.db

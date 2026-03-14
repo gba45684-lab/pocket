@@ -1,0 +1,16 @@
+# ════════════════════════════════════════════════════════════
+#  DATA SOURCE: Twelve Data — Forex + Crypto (single source)
+#  Get FREE key: https://twelvedata.com/pricing
+# ════════════════════════════════════════════════════════════
+
+PORT=3000
+NODE_ENV=development
+LOG_LEVEL=info
+
+# Twelve Data API Key (PRIMARY for ALL markets)
+TWELVE_DATA_KEY=your_twelve_data_key_here
+
+# Telegram Bot (Module 14)
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+TELEGRAM_ENABLED=false
